@@ -9,7 +9,7 @@ c++_programming
      1. Variables, Data Type
      2. Operators
 
-Overview:-
+## Overview:-
 
 C++ is a general-purpose, computer programming language as an extension of C or “C with classes”. C++ is a combination of both low-level & high-level language – a Middle-Level Language.
 
@@ -19,13 +19,13 @@ C++ occupies a similar area in the market as C, including systems programming an
 
 C++ was designed with a bias toward system programming and embedded, resource-constrained software and large systems, with performance, efficiency, and flexibility of use as its design highlights. C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications, including desktop applications, video games, servers (e.g. E-commerce, Web search, or SQL servers), and performance-critical applications (e.g. telephone switches or space probes)
 
-Brief History:-
+## Brief History:-
 
 In 1979, Bjarne Stroustrup, a Danish computer scientist, began work on "C with Classes", was renamed C++ in 1983. The motivation for creating a new language originated from Stroustrup's experience in programming for his PhD thesis. Stroustrup found that Simula had features that were very helpful for large software development, but the language was too slow for practical use, while BCPL was fast but too low-level to be suitable for large software development.
 
 As he wanted a flexible & a dynamic language which was similar to C with all its features, but with additionality of active type checking, basic inheritance, default functioning argument, classes, inlining, etc. and hence C with Classes (C++) was launched.
 
-Features Of C++:-
+## Features Of C++:-
 
 1. OOP (Object-Oriented Programming)
 
@@ -81,18 +81,19 @@ The C++ programming language offers a library full of in-built functions that ma
 
 As discussed earlier, C++ is compiler-based hence it is much faster than other programming languages like Python and Java that are interpreter-based.
 
-Applications:-
+## Applications:-
 
 There are several benefits of using C++ for developing applications and many applications product based developed in this language only because of its features and security. C++ has been widely and effectively used in areas like:-          
 
-Applications
-Games
-Web Browser
-Database Access
-Media Access
-Compilers
-Operating Systems
-Scanning
+## Applications
+
+1.Games
+2.Web Browser
+3.Database Access
+4.Media Access
+5.Compilers
+6.Operating Systems
+7.Scanning
      
 
 
