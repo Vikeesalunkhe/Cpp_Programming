@@ -16,12 +16,12 @@ int main() {
 
 	if (marks >= 50) {
 	
-		cout<<"Pass";
+		cout<<"Pass"<<endl;
 	}
 
 	else {
 	
-		cout<<"Fail";
+		cout<<"Fail"<<endl;
 	}
 	return 0;
 }
