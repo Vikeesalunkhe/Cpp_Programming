@@ -13,7 +13,7 @@ int main(){
      num1+=4;
      num2-=4;
 
-     cout<<num1 <<endl;   //4+4 = 5
+     cout<<num1 <<endl;   //4+4 = 8
      cout<<num2 <<endl;   //8-4 = 4
 
      return 0;
