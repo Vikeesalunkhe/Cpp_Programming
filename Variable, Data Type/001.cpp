@@ -22,5 +22,4 @@ int main(){
     cout<<"Enter float value : ";
     cin>>fnum;
     cout<<"Float value is : "<<fnum<<"\n";
-
 }
