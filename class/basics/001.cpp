@@ -32,5 +32,6 @@ int main()
 
     obj01.roll_no = 100;
     obj01.name = "vikee";
+    obj01.add_student();
     obj01.display_info();
 }
