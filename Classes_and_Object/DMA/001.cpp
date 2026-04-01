@@ -11,7 +11,8 @@ public:
 
     student ()
     {
-        name = (char *)malloc(20);
+        //name = (char *)malloc(20);     //dynamic memory allocation for name using malloc function
+        name = new char[20];             //dynamic memory allocation for name using new operator 
         strcpy(name, "vikee");
     }
 
@@ -24,5 +25,6 @@ public:
 int main(){
     student s1;
     s1.display();
-    free(s1.name);
+    //free(s1.name);   //dynamic memory deallocation for name using free function
+    delete s1.name;  //dynamic memory deallocation for name using delete operator
 }
